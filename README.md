@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @srbanon
-- 👀 I’m interested in Fivem cheats
+- 👋 Hi, I’m @erqf
+- 👀 I’m interested in Fivem Cheats
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me via email 
-
+- 📫 How to reach me via email qweeeeeerq@gmail.com
 <!---
 srbanon/srbanon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
